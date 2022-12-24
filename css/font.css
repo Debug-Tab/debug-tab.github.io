@@ -1,0 +1,11 @@
+@font-face {
+    font-family: SmileySans;
+    src: url("/css/SmileySans-Oblique.otf")
+}
+@font-face {
+    font-family: SmileySans;
+    src: url("/css/SmileySans-Oblique.ttf")
+}
+body > *{
+    font-family: SmileySans
+}
