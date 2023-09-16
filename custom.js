@@ -79,7 +79,7 @@ var binft = function (r) {
     showTotalWordDelayTime = 2,
     refreshDelayTime = 1,
     maxLength = 1,
-    d = 75,
+    d = 50,
     c = {
         text: "",
         prefixP: -maxLength,
